@@ -1,0 +1,7 @@
+{
+  "name": "Nur Al-Waqt",
+  "description": "A beautiful Hijri calendar and analog prayer time clock application featuring Arabic calligraphy and real-time solar positioning calculations powered by Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
